@@ -4,11 +4,12 @@ Numerical Programing 2026
 ## Subtitle
 ## Subtitle
 
-*bullet1
+* bullet1
 
-*bullet2
+* bullet2
 
 ...c++
+
 #include "myMatrix_22201042.h"
 #include "myNP_22201042.h"
 

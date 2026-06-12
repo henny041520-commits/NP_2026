@@ -8,7 +8,7 @@ Numerical Programing 2026
 
 * bullet2
 
-'''c++
+'''cpp
 
 #include "myMatrix_22201042.h"
 

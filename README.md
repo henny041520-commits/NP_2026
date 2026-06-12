@@ -8,10 +8,10 @@ Numerical Programing 2026
 
 * bullet2
 
-'''cpp
+```cpp
 
 #include "myMatrix_22201042.h"
 
 #include "myNP_22201042.h"
 
-'''
+```

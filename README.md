@@ -5,6 +5,7 @@ Numerical Programing 2026
 ## Subtitle
 
 *bullet1
+
 *bullet2
 
 ...c++
